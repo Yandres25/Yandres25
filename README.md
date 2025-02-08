@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Hi I'm Yordy,
-<aprendiendo base de datos en PostgreSQL
+ACtualmente aprendiendo base de datos en PostgreSQL
 <!--
 **Yandres25/Yandres25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
