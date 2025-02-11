@@ -1,7 +1,11 @@
-## Hi there 👋
+## Hi there 
 
-Hi I'm Yordy,
-ACtualmente aprendiendo base de datos en PostgreSQL
+Hi I'm Yordy, soy ingeniero con experiencia en ingenieria de gas, de igual modo también incursionando en el Área de Análisis de datos.
+
+Learning.
+- Base de datos con PostgreSQL
+- Modelos de Machine Learning
+- 
 <!--
 **Yandres25/Yandres25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
