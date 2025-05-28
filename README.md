@@ -1,6 +1,6 @@
 ## Hi there 
 
-Hol mi nombre es Yordy, soy ingeniero con experiencia en ingenieria de gas, de igual modo también incursionando en el Área de Análisis de datos.
+Hola mi nombre es Yordy, soy ingeniero con experiencia en ingenieria de gas, de igual modo también incursionando en el Área de Análisis de datos.
 En este perfil podrás visualizar proyectos de ciencia de datos y sistemas inteligentes.
 
 Conocimientos de Análisis de Datos
